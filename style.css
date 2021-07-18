@@ -1,0 +1,35 @@
+.panda-bg-primary{
+    background-color: #fceae8;
+}
+.panda-bg-success{
+    background-color: #ffa500;
+}
+.panda-violet{
+    background-color: #da70d6;
+}
+.panda-blue{
+    background-color: #0000ff;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.categories img{
+    width: 100px;
+}
+.panda-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: gray;
+}
